@@ -1,0 +1,20 @@
+header {
+    display: grid;
+    grid-template-columns: auto auto ;
+    }
+    
+    .header-logo{
+    
+        display: grid;
+    }
+    header h2{
+        float: left;
+    }
+    header p{
+    
+        float: left;
+    }
+    #hero-image{
+        align-items: center;
+        word-wrap: inherit;
+    }
